@@ -168,12 +168,12 @@ opacity: 0;
 z-index: 999999;
 }
 [data-tooltip]:after {
-	height: 22px;
-	padding: 11px 11px 0;
-	font-size: 13px;
-	line-height: 11px;
-	content: attr(data-tooltip);
-	white-space: nowrap;
+height: 22px;
+padding: 11px 11px 0;
+font-size: 13px;
+line-height: 11px;
+content: attr(data-tooltip);
+white-space: nowrap;
 }
 [data-tooltip]:hover, [data-tooltip]:focus {
 background-color: rgba(0, 0, 0, 0);
