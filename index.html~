@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>EducaNow</title>
+		<title>Innova Class</title>
 		<link  href="css/style.css" rel="stylesheet">
 		<!--<link href="css/bootstrap.min.css" rel="stylesheet"> -->
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,600' rel='stylesheet' type='text/css'>
@@ -15,13 +15,13 @@
     		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   	<![endif]-->
-    <link rel="shortcut icon" href="images/faicon.png">
+    <link rel="shortcut icon" href="img/faicon.png">
 	</head>
 	<body>
 		<div class="wrap">
       <div class="header">
       	<div class="logo">
-					<a href="index.html"><h1>EducaNow</h1></a>
+					<a href="index.html"><h1>Innova Class</h1></a>
 				</div>
       </div>
 			<div class="content">			
@@ -52,7 +52,7 @@
 					       	</a>
 						<div class="clear"></div>
 					</div>
-					<p class="copy">&#169; 2014 EducaNow &nbsp;</p>
+					<p class="copy">&#169; 2014 Innova Class&nbsp;</p>
 				</div>
 		</div>
 	</body>
